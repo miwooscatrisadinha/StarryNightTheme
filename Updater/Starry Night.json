@@ -1,0 +1,45 @@
+{
+    "manifest": {
+        "author": "miwoomsmsmsm",
+        "name": "Starry Night",
+        "version": "1.0.0"
+    },
+    "background": {
+        "url": "https:\/\/raw.githubusercontent.com\/miwooscatrisadinha\/StarryNightTheme\/refs\/heads\/main\/Background\/starrynightbackground.jpg",
+        "overlay_alpha": 30
+    },
+    "fonts": {
+        "*": "https:\/\/github.com\/miwooscatrisadinha\/StarryNightTheme\/raw\/refs\/heads\/main\/Fonts\/ComicNeueSansID.ttf"
+    },
+    "simple_colors": {
+        "background": 0,
+        "mention_highlight": -2061495714,
+        "active_channel": -14411174,
+        "statusbar": 0,
+        "input_background": -13949620,
+        "blocked_bg": -15068609,
+        "background_secondary": -15134407,
+        "accent": -3899
+    },
+    "colors": {
+        "primary_dark_600": -15528665,
+        "brand_new_560": -1112,
+        "link": -1084,
+        "link_500": -589912,
+        "primary_dark_300": -12503170,
+        "primary_dark_630": -15463385,
+        "primary_dark_660": -15463385,
+        "primary_dark_700": -15463385,
+        "primary_dark_800": -15133901,
+        "primary_700": -15397071,
+        "primary_dark_400": -65615,
+        "primary_dark_360": -1648731
+    },
+    "drawable_tints": {
+        "ic_sidebar_pins_off_dark_24dp": -12503170,
+        "ic_sidebar_pins_on_dark_24dp": -12503181,
+        "ic_sidebar_notifications_off_dark_24dp": -12503170,
+        "ic_sidebar_notifications_on_dark_24dp": -12503170
+    },
+    "raws": {}
+}
